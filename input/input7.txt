@@ -1,0 +1,8 @@
+B1 vertical 0 0 2
+B2 horizontal 0 1 2
+B3 vertical 1 2 3
+B4 horizontal 5 0 3
+B5 vertical 0 5 3
+B6 horizontal 3 3 3
+B7 vertical 4 4 2
+R horizontal 2 0 2
